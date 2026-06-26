@@ -217,4 +217,15 @@ $$
 
 ---
 
-[]()
+
+
+## 7. 矩阵不等式
+
+$$
+\operatorname{rank}(AB) \le \min\{\operatorname{rank}(A), \operatorname{rank}(B)\}
+$$
+
+$$
+\operatorname{rank}(A + B) \le \operatorname{rank}(A) + \operatorname{rank}(B)
+$$
+
